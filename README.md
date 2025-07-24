@@ -2,7 +2,7 @@
 
 **Senior PHP & Hybrid Mobile Apps Developer**  
 Gujrat, Punjab, Pakistan  
-[LinkedIn](https://www.linkedin.com/in/ziaa520) • [Email](mailto:ziaa520@gmail.com) • [Portfolio](https://github.com/ziaurrehmanjutt/i)
+[LinkedIn](https://www.linkedin.com/in/ziaa520) • [Email](mailto:ziaa520@gmail.com) • [Portfolio](https://github.com/ziaurrehmanjutt)
 
 ---
 
@@ -20,7 +20,7 @@ I love working with modern stacks, integrating third-party APIs (Stripe, PayPal,
 - Developed dynamic web apps with PHP (Laravel, CodeIgniter), WordPress, and mobile apps using Ionic.
 - Specialized in Magento integrations for mobile projects.
 - Built apps with Vue.js, Inertia.js, ASP.NET, C#, Dynamics 365 F&O, and X++.
-- Led projects end-to-end, including project management.
+- Lead projects end-to-end, including project management.
 
 **Website Developer** — Mindswork (2020)  
 - Developed Laravel websites, Ionic mobile apps, and C# desktop applications.
@@ -34,7 +34,6 @@ I love working with modern stacks, integrating third-party APIs (Stripe, PayPal,
 
 **MSc Computer Science**  
 PMAS-Arid Agriculture University Rawalpindi (2019)  
-GPA: 3.77 / 4.0
 
 ---
 
