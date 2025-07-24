@@ -1,29 +1,121 @@
-<h1 align="center">Hi 👋, I'm Zia</h1>
-<h3 align="center">I’m a passionate software developer from Pakistan with expertise in building efficient and scalable solutions. With a strong foundation in programming, I specialize in technologies like PHP, C#, Angular, JavaScript, and more. Coding isn’t just my profession—it’s my hobby and my way of solving real-world problems. I aim to become a globally recognized programmer by continuously improving my skills and contributing to impactful projects. Whether it’s creating robust backend systems, crafting user-friendly frontends, or diving into complex problem-solving, I’m always ready for a new challenge.</h3>
+# Hi, I'm Zia Ur Rehman 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziaurrehmanjutt&label=Profile%20views&color=0e75b6&style=flat" alt="ziaurrehmanjutt" /> </p>
+**Senior PHP & Hybrid Mobile Apps Developer**  
+Gujrat, Punjab, Pakistan  
+[LinkedIn](https://www.linkedin.com/in/ziaa520) • [Email](mailto:ziaa520@gmail.com) • [Portfolio](https://github.com/ziaurrehmanjutt/i)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziaurrehmanjutt" alt="ziaurrehmanjutt" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Flutter**
+## 🚀 About Me
 
-- 💬 Ask me about **LARAVEL, ASP.NET or IONIC**
+I'm a passionate software developer with over 6 years of experience building robust web and mobile applications. My expertise spans PHP (Laravel, WordPress, CodeIgniter), C#, ASP.NET, JavaScript, Angular, and the Ionic framework for hybrid mobile apps. I thrive on solving complex problems and delivering scalable, user-friendly solutions.
 
-- 📫 How to reach me **ziaa520@gmail.com**
+I love working with modern stacks, integrating third-party APIs (Stripe, PayPal, OpenAI, etc.), and optimizing performance. As a team player, I enjoy collaborating in Agile environments and continuously expanding my technical skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ziaa520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziaa520" height="30" width="40" /></a>
+---
+
+## 💼 Experience
+
+**Full Stack Developer** — IIBTech (Sep 2019 – Present)  
+- Developed dynamic web apps with PHP (Laravel, CodeIgniter), WordPress, and mobile apps using Ionic.
+- Specialized in Magento integrations for mobile projects.
+- Built apps with Vue.js, Inertia.js, ASP.NET, C#, Dynamics 365 F&O, and X++.
+- Led projects end-to-end, including project management.
+
+**Website Developer** — Mindswork (2020)  
+- Developed Laravel websites, Ionic mobile apps, and C# desktop applications.
+
+**Hybrid Mobile App Developer** — Cutting Edge Projects (2022)  
+- Developed and deployed high-quality Ionic mobile apps with Laravel backend for UK-based clients.
+
+---
+
+## 🎓 Education
+
+**MSc Computer Science**  
+PMAS-Arid Agriculture University Rawalpindi (2019)  
+GPA: 3.77 / 4.0
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:**  
+PHP, C#, JavaScript, HTML, CSS, SQL, C++, X++
+
+**Frontend:**  
+HTML, CSS, JavaScript, jQuery, Angular, Vue.js, Tailwind CSS, Bootstrap, Inertia.js
+
+**Backend:**  
+PHP (Laravel, CodeIgniter), C# (ASP.NET), Node.js, X++
+
+**Frameworks & Libraries:**  
+Laravel, WordPress, Magento, CodeIgniter, D365 F&O, Dolibarr, Ionic, Vue.js
+
+**Mobile:**  
+Ionic (Angular, Capacitor)
+
+**Database & Storage:**  
+MySQL, SQL, Firebase, ElasticSearch
+
+**Cloud & Server:**  
+AWS, Google Cloud, Azure, Linux Server, Windows Server, Plesk, cPanel
+
+**Version Control:**  
+Git, GitHub, GitLab
+
+**Tools & IDEs:**  
+Visual Studio, PhpStorm, Postman, Composer, Docker, npm, Webpack
+
+**Integrations:**  
+Stripe, PayPal, QuickBooks, Firebase, OpenAI, Google Gemini, ElasticSearch, Social Logins (Google, Facebook, X), RESTful APIs, GraphQL, Google Maps, Facebook API, X API
+
+**SEO & Analytics:**  
+SEO Best Practices, Google Analytics, Facebook Analytics, Google Search Console, Facebook Ads Manager
+
+---
+
+## 🌐 Portfolio
+
+### Web Projects
+- [Scholarship Mate](https://scholarshipmate.org/) (Laravel)
+- [Summit Restore AZ](https://summitrestoreaz.com/) (Laravel + Vue)
+- [The Print Nation](https://app.theprintnation.com/) (Laravel)
+- [Vcardly](https://vcardly.net/)
+- [Smartecard](https://smartecard.com.au)
+- [MeCard](https://my.mecard.my)
+- [Reserve Fund Simulator](https://simulator.reservefundadvisers.com/)
+
+### iOS Apps
+- [KwickOMS](https://apps.apple.com/us/app/kwickoms/id6449746681) (Ionic + Angular + Laravel)
+- [Steep Dictionary Chat](https://apps.apple.com/us/app/steepdictionarychat/id1666363560) (Ionic + Angular + Firebase + OpenAI)
+- [Intellogs](https://apps.apple.com/us/app/intellogs/id1670599005) (Ionic + Angular + CodeIgniter)
+- [Saliran DDS](https://apps.apple.com/us/app/saliran-dds/id6466036391) (Ionic + Angular + Laravel)
+
+### Android Apps
+- [Saliran DDS](https://play.google.com/store/apps/details?id=com.salirandds.androidapp)
+- [Intellog](https://play.google.com/store/apps/details?id=intellog.iibtech.beta)
+- [Vital Group](https://play.google.com/store/apps/details?id=com.iibtech.vitalgroup)
+- [Soda Salf](https://play.google.com/store/apps/details?id=com.intellog.sodasalf)
+- [Skills Experts](https://play.google.com/store/apps/details?id=co.iibtech.skills.experts)
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziaurrehmanjutt&show_icons=true&theme=radical" alt="Zia's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaurrehmanjutt&theme=radical" alt="Zia's GitHub streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ziaa520"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ziaa520" /></a></p><br><br>
+## 🤝 Let's Connect!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziaurrehmanjutt&show_icons=true&locale=en&layout=compact" alt="ziaurrehmanjutt" /></p>
+- 📫 Email: ziaa520@gmail.com
+- 🌍 [LinkedIn](https://www.linkedin.com/in/ziaa520)
+- 💻 [GitHub](https://github.com/ziaurrehmanjutt/i)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziaurrehmanjutt&show_icons=true&locale=en" alt="ziaurrehmanjutt" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaurrehmanjutt&" alt="ziaurrehmanjutt" /></p>
+*Always eager to collaborate on exciting projects and explore new technologies!*
